@@ -34,11 +34,11 @@ This tutorial will consist of a **3.5-hour (half-day)** hybrid lecture and labor
 # Tutorial Presentors
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="/figures/caren_ceremony.jpeg" alt="Dr. Soyeon Caren Han" width="180" style="object-fit: contain; margin: 10px;">
-    <img src="/figures/yihao.jpeg" alt="Mr. Yihao Ding" width="180" style="object-fit: contain; margin: 10px;">
-    <img src="/figures/josiah.jpg" alt="Dr. Josiah Poon" width="180" style="object-fit: contain; margin: 10px;">
-    <img src="/figures/seong-bae-park.jpeg" alt="Prof. Seong-Bae Park" width="180" style="object-fit: contain; margin: 10px;">
-    <img src="/figures/Mitra-Prasenjit.jpeg" alt="Prof. Prasenjit Mitra" width="180" style="object-fit: contain; margin: 10px;">
+    <img src="/figures/caren_ceremony.jpeg" alt="Dr. Soyeon Caren Han" width="100" style="object-fit: contain; margin: 10px;">
+    <img src="/figures/yihao.jpeg" alt="Mr. Yihao Ding" width="100" style="object-fit: contain; margin: 10px;">
+    <img src="/figures/josiah.jpg" alt="Dr. Josiah Poon" width="100" style="object-fit: contain; margin: 10px;">
+    <img src="/figures/seong-bae-park.jpeg" alt="Prof. Seong-Bae Park" width="100" style="object-fit: contain; margin: 10px;">
+    <img src="/figures/Mitra-Prasenjit.jpeg" alt="Prof. Prasenjit Mitra" width="100" style="object-fit: contain; margin: 10px;">
 </div>
 
 
