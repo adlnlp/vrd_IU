@@ -1,10 +1,9 @@
 # IJCAI 2024 Tutorial: Visually-Rich Document Understanding and Intelligence: Recent Advances and Benchmarks
 Visually Rich Documents (VRDs), including scanned images and PDF files, have become ubiquitous for recording and preserving information. There are approximately 2.5 trillion such documents worldwide. The information and knowledge in documents such as academic papers , financial forms and industry annual reports are usually qualified by experts. 
 Managing and extracting information from VRDs is crucial for emerging AI applications like dialogue systems and recommendation engines. VRDs contain high-quality multimodal content, often expert-verified, making them valuable for training large pretrained models, particularly in specialized fields like AI teaching and data analysis. To tackle this, diverse deep learning-based document understanding frameworks have been proposed. These frameworks cover various tasks such as document layout analysis (LA), structure parsing (SP), visual question answering (VQA), and key information extraction (KIE), enabling precise extraction of unstructured data from VRDs. This tutorial on document understanding and intelligence is highly relevant to the diverse audience of IJCAI, offering insights into emerging challenges and practical applications of document understanding and intelligence in AI research. 
-<div style="text-align:center;">
+<p align="center">
   <img src="https://github.com/adlnlp/vrd_IU/assets/81132254/5bdf4401-f33f-4643-92ba-e48d6406afe6" alt="Larger Image" width="600"/>
-</div>
-
+</p>
 # Tutorial Schedule
 This tutorial will consist of a **3.5-hour (half-day)** hybrid lecture and laboratory-style representation that covers the topics of document understanding in great detail. The lecture session will cover the aforementioned topics, including document understanding downstream tasks with benchmark datasets and techniques adopted by SoTAs. The hands-on laboratories will introduce how to set up and implement deep learning models to address real-world problems.
 
