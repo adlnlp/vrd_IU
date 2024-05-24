@@ -35,14 +35,13 @@ This tutorial will consist of a **3.5-hour (half-day)** hybrid lecture and labor
 6. **Summary and Future Trends**
 # Tutorial Presentors
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="/figures/caren_ceremony.jpeg" alt="Dr. Soyeon Caren Han" width="100" style="object-fit: contain; margin: 10px;">
-    <img src="/figures/yihao.jpeg" alt="Mr. Yihao Ding" width="100" style="object-fit: contain; margin: 10px;">
-    <img src="/figures/josiah.jpg" alt="Dr. Josiah Poon" width="100" style="object-fit: contain; margin: 10px;">
-    <img src="/figures/seong-bae-park.jpeg" alt="Prof. Seong-Bae Park" width="100" style="object-fit: contain; margin: 10px;">
-    <img src="/figures/Mitra-Prasenjit.jpeg" alt="Prof. Prasenjit Mitra" width="100" style="object-fit: contain; margin: 10px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); justify-content: center; gap: 10px;">
+    <img src="/figures/caren_ceremony.jpeg" alt="Dr. Soyeon Caren Han" style="object-fit: contain; width: 100px; margin: 10px;">
+    <img src="/figures/yihao.jpeg" alt="Mr. Yihao Ding" style="object-fit: contain; width: 100px; margin: 10px;">
+    <img src="/figures/josiah.jpg" alt="Dr. Josiah Poon" style="object-fit: contain; width: 100px; margin: 10px;">
+    <img src="/figures/seong-bae-park.jpeg" alt="Prof. Seong-Bae Park" style="object-fit: contain; width: 100px; margin: 10px;">
+    <img src="/figures/Mitra-Prasenjit.jpeg" alt="Prof. Prasenjit Mitra" style="object-fit: contain; width: 100px; margin: 10px;">
 </div>
-
 
 - **Dr. Soyeon Caren Han** is a co-leader of AD-NLP (Australia Deep Learning NLP Group), a Senior lecturer (Associate Professor in U.S. System) at the University of Melbourne, and an honorary senior lecturer (honorary Associate Professor in U.S. System) at the University of Sydney and the University of Edinburgh. After her Ph.D. (in 2017), she worked for six years at the University of Sydney. Her research interests include Natural Language Processing with Deep Learning. She is broadly interested in several research topics, including visual-linguistic multimodal learning, abusive language detection, document analysis, and recommender systems. More information can be found at [her website](https://drcarenhan.github.io/).
 
