@@ -4,6 +4,7 @@ Managing and extracting information from VRDs is crucial for emerging AI applica
 <p align="center">
   <img src="https://github.com/adlnlp/vrd_IU/assets/81132254/5bdf4401-f33f-4643-92ba-e48d6406afe6" alt="Larger Image" width="600"/>
 </p>
+
 # Tutorial Schedule
 This tutorial will consist of a **3.5-hour (half-day)** hybrid lecture and laboratory-style representation that covers the topics of document understanding in great detail. The lecture session will cover the aforementioned topics, including document understanding downstream tasks with benchmark datasets and techniques adopted by SoTAs. The hands-on laboratories will introduce how to set up and implement deep learning models to address real-world problems.
 
