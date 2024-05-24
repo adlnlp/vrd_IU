@@ -1,4 +1,4 @@
-# IJCAI 2024 Tutorial: Visually-Rich Document Understanding and Intelligence: Recent Advances and Benchmarks
+![image](https://github.com/adlnlp/vrd_IU/assets/81132254/5bdf4401-f33f-4643-92ba-e48d6406afe6)# IJCAI 2024 Tutorial: Visually-Rich Document Understanding and Intelligence: Recent Advances and Benchmarks
 Visually Rich Documents (VRDs), including scanned images and PDF files, have become ubiquitous for recording and preserving information. There are approximately 2.5 trillion such documents worldwide. The information and knowledge in documents such as academic papers (Figure~\ref{fig:paper}), financial forms (Figure~\ref{fig:form}) and industry annual reports (Figure~\ref{fig:report}) are usually qualified by experts. 
 Managing and extracting information from VRDs is crucial for emerging AI applications like dialogue systems and recommendation engines. VRDs contain high-quality multimodal content, often expert-verified, making them valuable for training large pretrained models, particularly in specialized fields like AI teaching and data analysis. To tackle this, diverse deep learning-based document understanding frameworks have been proposed. These frameworks cover various tasks such as document layout analysis (LA), structure parsing (SP), visual question answering (VQA), and key information extraction (KIE), enabling precise extraction of unstructured data from VRDs. This tutorial on document understanding and intelligence is highly relevant to the diverse audience of IJCAI, offering insights into emerging challenges and practical applications of document understanding and intelligence in AI research. 
 
@@ -33,12 +33,12 @@ This tutorial will consist of a **3.5-hour (half-day)** hybrid lecture and labor
 6. **Summary and Future Trends**
 # Tutorial Presentors
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: nowrap;">
-  <img src="/figures/caren_ceremony.jpeg" alt="Dr. Soyeon Caren Han" width="150" style="object-fit: contain;">
-  <img src="/figures/yihao.jpeg" alt="Mr. Yihao Ding" width="150" style="object-fit: contain;">
-  <img src="/figures/josiah.jpg" alt="Dr. Josiah Poon" width="150" style="object-fit: contain;">
-  <img src="/figures/seong-bae-park.jpeg" alt="Prof. Seong-Bae Park" width="150" style="object-fit: contain;">
-  <img src="/figures/Mitra-Prasenjit.jpeg" alt="Prof. Prasenjit Mitra" width="150" style="object-fit: contain;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img src="/figures/caren_ceremony.jpeg" alt="Dr. Soyeon Caren Han" width="180" style="object-fit: contain; margin: 10px;">
+    <img src="/figures/yihao.jpeg" alt="Mr. Yihao Ding" width="180" style="object-fit: contain; margin: 10px;">
+    <img src="/figures/josiah.jpg" alt="Dr. Josiah Poon" width="180" style="object-fit: contain; margin: 10px;">
+    <img src="/figures/seong-bae-park.jpeg" alt="Prof. Seong-Bae Park" width="180" style="object-fit: contain; margin: 10px;">
+    <img src="/figures/Mitra-Prasenjit.jpeg" alt="Prof. Prasenjit Mitra" width="180" style="object-fit: contain; margin: 10px;">
 </div>
 
 
@@ -57,7 +57,7 @@ If you find this tutorial useful in your research, please cite it as follows:
 
 ```bibtex
 @misc{ijcai2024_vrd_tutorial,
-  author       = {Soyeon Caren Han and Yihao Ding and Josiah Poon and Seong-Bae Park and Prasenjit Mitra},
+  author       = {Soyeon Caren Han, Yihao Ding, Josiah Poon, Seong-Bae Park and Prasenjit Mitra},
   title        = {Visually-Rich Document Understanding and Intelligence: Recent Advances and Benchmarks},
   conference   = {The 33rd International Joint Conference on Artificial Intelligence},
   year         = 2024,
