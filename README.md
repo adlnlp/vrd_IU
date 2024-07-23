@@ -4,29 +4,7 @@ Managing and extracting information from VRDs is crucial for emerging AI applica
 <p align="center">
   <img src="https://github.com/adlnlp/vrd_IU/assets/81132254/5bdf4401-f33f-4643-92ba-e48d6406afe6" alt="Larger Image" width="600"/>
 </p>
-## Joint-Grained Learning
 
-### Joint-Grained Encoder 
-($\mathcal{E}$)
-- **Role**: Transformer encoder
-- **Function**: Captures contextual correlations between fine-grained ($\mathbf{\widehat{t}}$) and coarse-grained ($\mathbf{\widehat{E}}$) representations
-- **Goal**: Learn token-level details and high-level entity structures
-
-### Joint-Grained Decoders 
-($\mathcal{D}$)
-- **Fine-Grained Decoder ($\mathcal{D}_{fg}$)**
-  - **Input**: Fine-grained token representations ($\mathbf{\widehat{t}}$)
-  - **Memory**: Coarse-grained entity representations ($\mathbf{\widehat{E}}$)
-  - **Output**: Augmented token representations ($\mathbf{t}$)
-
-- **Coarse-Grained Decoder ($\mathcal{D}_{cg}$)**
-  - **Input**: Coarse-grained entity representations ($\mathbf{\widehat{E}}$)
-  - **Memory**: Fine-grained token representations ($\mathbf{\widehat{t}}$)
-  - **Output**: Comprehensive entity representations ($\mathbf{E}$)
-
-### Integration Challenge
-- **Issue**: Simple concatenation or pooling of hidden states may not leverage strengths of each model
-- **Solution**: Use diverse losses to effectively integrate knowledge from various teacher models
 
 
 # Tutorial Schedule
