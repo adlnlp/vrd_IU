@@ -24,15 +24,14 @@ This tutorial will consist of a **3.5-hour (half-day)** hybrid lecture and labor
         - Visual Question Answering
 
 3. **Document Understanding Techniques [40 mins]**
-    - Feature Engineering
-    - Cross-modality Fusion
-    - Encoder Architecture
+    - Feature Representation
+    - Feature Fusion Approaches
+    - Model Architectures
     - Pretraining Techniques
 
 4. **Demo: VRD Understanding with LLMs in Bank System (Bank of Korea Team) [30 mins]**
 
 5. **Laboratories in Real-world Applications**
-    - Academic Paper Layout Understanding [30 mins]
     - Complex Form Key Information Extraction [30 mins]
 
 6. **Summary and Future Trends**
