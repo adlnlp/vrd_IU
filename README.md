@@ -6,11 +6,11 @@ Managing and extracting information from VRDs is crucial for emerging AI applica
 </p>
 
 # Tutorial Matierials
+[Tutorial Slides](https://docs.google.com/presentation/d/1FflIW4I0uksxCWeP2QZUQkzz1xfBe5XWMKb7sbn3DGg/edit#slide=id.g2ec60806b99_0_27).
 
-##  [Tutorial Slides](https://docs.google.com/presentation/d/1FflIW4I0uksxCWeP2QZUQkzz1xfBe5XWMKb7sbn3DGg/edit#slide=id.g2ec60806b99_0_27).
-## Tutorial Codes
+[Tutorial Codes](https://colab.research.google.com/drive/1mIEldqkrLBS2gF17cMSYpw_Hrm2vV6DB#scrollTo=DRx6YpAWIdqw)
 
-## Tutorial
+[Survey Paper Link] (Will be released 5th Aug).
 
 # Tutorial Schedule
 This tutorial will consist of a **3.5-hour (half-day)** hybrid lecture and laboratory-style representation that covers the topics of document understanding in great detail. The lecture session will cover the aforementioned topics, including document understanding downstream tasks with benchmark datasets and techniques adopted by SoTAs. The hands-on laboratories will introduce how to set up and implement deep learning models to address real-world problems.
