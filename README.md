@@ -7,7 +7,7 @@ Managing and extracting information from VRDs is crucial for emerging AI applica
 
 # Tutorial Matierials
 
-## Tutorial Slides [her website](https://docs.google.com/presentation/d/1FflIW4I0uksxCWeP2QZUQkzz1xfBe5XWMKb7sbn3DGg/edit#slide=id.g2ec60806b99_0_27).
+##  [Tutorial Slides](https://docs.google.com/presentation/d/1FflIW4I0uksxCWeP2QZUQkzz1xfBe5XWMKb7sbn3DGg/edit#slide=id.g2ec60806b99_0_27).
 ## Tutorial Codes
 
 ## Tutorial
