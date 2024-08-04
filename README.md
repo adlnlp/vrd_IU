@@ -12,6 +12,9 @@ Managing and extracting information from VRDs is crucial for emerging AI applica
 
 [Survey Paper Link] (Will be released 5th Aug).
 
+[Form-NLU baseline](https://colab.research.google.com/drive/1MHvUmiU1gNbhkqPCz65xHXQ_XtgQh84Z#scrollTo=1fV0JuFhNRNZ)
+If you are interested to more advance methods for this challenge, please come to the competition session on 6th Aug, IJCAI VRDIU session (3 pm-4 pm) Korean Time. 
+
 # Tutorial Schedule
 This tutorial will consist of a **3.5-hour (half-day)** hybrid lecture and laboratory-style representation that covers the topics of document understanding in great detail. The lecture session will cover the aforementioned topics, including document understanding downstream tasks with benchmark datasets and techniques adopted by SoTAs. The hands-on laboratories will introduce how to set up and implement deep learning models to address real-world problems.
 
