@@ -10,7 +10,7 @@ Managing and extracting information from VRDs is crucial for emerging AI applica
 
 [Tutorial Codes](https://colab.research.google.com/drive/1mIEldqkrLBS2gF17cMSYpw_Hrm2vV6DB#scrollTo=DRx6YpAWIdqw)
 
-[Survey Paper Link] (Will be released 5th Aug).
+Survey Paper Link (Will be released 5th Aug).
 
 [Form-NLU baseline](https://colab.research.google.com/drive/1MHvUmiU1gNbhkqPCz65xHXQ_XtgQh84Z#scrollTo=1fV0JuFhNRNZ)
 If you are interested to more advance methods for this challenge, please come to the competition session on 6th Aug, IJCAI VRDIU session (3 pm-4 pm) Korean Time. 
